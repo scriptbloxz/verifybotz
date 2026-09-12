@@ -5,7 +5,7 @@ from discord import app_commands
 
 # Configuration
 # Replace this with your actual Vercel URL or Custom Domain
-VERIFICATION_URL = "https://your-site.vercel.app/" 
+VERIFICATION_URL = "verifybots-ezs4yp2bx-a-489d.vercel.app" 
 
 # Optional: Your Discord Token (use environment variables in production)
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN", "YOUR_BOT_TOKEN_HERE")
